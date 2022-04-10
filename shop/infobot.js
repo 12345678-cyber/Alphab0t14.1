@@ -26,14 +26,14 @@ return `ℒ⃝👾 *B O T  S T A T I S T I C*
 
 ℒ⃝👨‍💻 *C O N N E C T  W I T H  M E*
 
-⛎ Api : api-alphabot.herokuapp.com
-♈ YouTube : youtube.com/c/zeeoneofc
-♉ Github : zeeoneofc.github.io
-♊ Instagram : instagram.com/zeeoneofc
-♋ Tiktok : tiktok.com/@zeeoneofc
-♌ Telegram : t.me/zeeoneofc
-♎ Ch Telegram : t.me/zeeone_ofc
-♏ WhatsApp : bit.ly/zeeone_ofc
+⛎ Api : tatti lele
+♈ YouTube : YouTube chalyega sakal dekhi apni
+♉ Github : nhi de rha 
+♊ Instagram : ig par jumra nhi krta
+♋ Tiktok : ye nhi
+♌ Telegram : leakage bhot hoti
+♎ Ch Telegram : ave chumtiye
+♏ WhatsApp : kya chala rha 
 `}
 
 exports.infobot = infobot
