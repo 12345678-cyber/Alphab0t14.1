@@ -5,7 +5,8 @@ const help = (prefix, wita, wit, ucapannya2, timuu, status, wa_version, mcc, mnc
 ${numberik}➛ WIB : ${timuu}
 ${numberik}➛ WITA : ${wita}
 └❏ WIT : ${wit}
-                          
+           ram ram 🙏
+           🚩 BAJRANG DAL 🚩               
 ┌❏ *TODAY*
 ${numberik}➛${ucapannya2}
 ${numberik}➛Jam : ${timuu}
